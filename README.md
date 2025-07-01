@@ -25,15 +25,6 @@ Dans le dossier `backend/` (ou API) :
 - **Tests d’intégration** : vérifient les formulaires et interactions
 - **Tests end-to-end (E2E)** : automatisés avec Selenium pour simuler un vrai utilisateur
 
-Exécution :
-```bash
-cd frontend
-npm test -- --watchAll=false
-
-cd ../tests
-node e2e-login.js
-```
-
 ---
 
 ## 🚀 Partie DevOps
